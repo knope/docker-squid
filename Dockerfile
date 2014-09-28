@@ -1,6 +1,6 @@
 # squid3
 #
-# VERSION               0.0.1
+# VERSION               1.0.1
 
 FROM     ubuntu:14.04
 MAINTAINER whoknows@whatever
