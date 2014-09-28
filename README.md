@@ -1,5 +1,5 @@
 docker squid3
 ============
 try this:
-sudo docker run -d -P --name test_squid eg_squid
+sudo docker build -t eg_squid; sudo docker run -d -P --name test_squid eg_squid
 
