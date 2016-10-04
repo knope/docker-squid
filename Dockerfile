@@ -1,7 +1,7 @@
 # squid3
 #
 # VERSION               1.0.1
-
+# edit for github.audio sound  :D
 FROM     ubuntu:14.04
 MAINTAINER whoknows@whatever
 RUN echo "enter your IP xxx.xxx.xxx.xxx/##:"
